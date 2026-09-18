@@ -39,17 +39,6 @@ export default function RadheBook() {
           <span>GET NEW ID</span>
         </a>
 
-        {/* Customer Care */}
-        <a
-          href="https://wa.me/message/46TVWUBWIZLZI1"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mt-6 flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 active:scale-[0.98] text-white text-lg sm:text-xl font-semibold rounded-full py-4 transition-all duration-300 shadow-lg"
-        >
-          <FaWhatsapp className="text-3xl" />
-          <span>CUSTOMER CARE</span>
-        </a>
-
         <hr className="my-8 border-gray-300" />
 
         {/* Website */}
