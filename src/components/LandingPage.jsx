@@ -1,6 +1,6 @@
 import React from "react";
 import { FaWhatsapp } from "react-icons/fa";
-import logo from "../assets/logo2.png";
+import logo from "../assets/logo.png";
 
 export default function RadheBook() {
   return (
@@ -17,26 +17,37 @@ export default function RadheBook() {
         </div>
 
         {/* Title */}
-        <h1 className="mt-2 text-center text-3xl sm:text-4xl font-semibold text-gray-900 tracking-wide">
-          RADHE BOOK
-        </h1>
+          <h1 className="mt-2 text-center text-xl sm:text-2xl font-semibold text-gray-900 tracking-wider"> 
+          RADHE 
+          </h1>
 
         {/* Subtitle */}
         <p className="mt-3 text-center text-lg sm:text-xl text-gray-600">
-          World's no. 1 book
+          World's no. 1 Radhe
         </p>
 
         <hr className="my-8 border-gray-300" />
 
         {/* Get New ID */}
         <a
-          href="https://wa.me/qr/LDVQBVFT5ZAEM1"
+          href="https://wa.me/message/GPBFVXAHITRMG1"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 active:scale-[0.98] text-white text-lg sm:text-xl font-semibold rounded-full py-4 transition-all duration-300 shadow-lg"
         >
           <FaWhatsapp className="text-3xl" />
           <span>GET NEW ID</span>
+        </a>
+
+        {/* Customer Support */}
+        <a
+          href="https://wa.me/message/46TVWUBWIZLZI1"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 active:scale-[0.98] text-white text-lg sm:text-xl font-semibold rounded-full py-4 transition-all duration-300 shadow-lg"
+        >
+          <FaWhatsapp className="text-3xl" />
+          <span>CUSTOMER SUPPORT</span>
         </a>
 
         <hr className="my-8 border-gray-300" />
