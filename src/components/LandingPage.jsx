@@ -52,23 +52,7 @@ export default function RadheBook() {
 
         <hr className="my-8 border-gray-300" />
 
-        {/* Website */}
-        <div className="text-center">
-          <p className="text-gray-500 text-lg sm:text-xl mb-2">
-            More info:
-          </p>
-
-          <a
-            href="https://www.radheexchange.info/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-lg sm:text-xl md:text-2xl text-gray-800 hover:text-blue-600 transition-colors break-all"
-          >
-            www.radheexchange.info ↗
-          </a>
         </div>
-
-      </div>
     </section>
   );
 }
