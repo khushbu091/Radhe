@@ -30,7 +30,7 @@ export default function RadheBook() {
 
         {/* Get New ID */}
         <a
-          href="https://wa.me/message/GPBFVXAHITRMG1"
+          href="https://wa.me/qr/D7QSLZ4ARITJJ1"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 active:scale-[0.98] text-white text-lg sm:text-xl font-semibold rounded-full py-4 transition-all duration-300 shadow-lg"
